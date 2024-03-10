@@ -7,9 +7,9 @@ h1 { font-size: 25px; text-align: center; font-family: 'Outfit', sans-serif; col
 
 p { font-size: 15px; text-align: center; font-family: 'Outfit', sans-serif; color: #7b879d; }
 
-[role=attribution] { margin-top: 5%; font-size: 11px; text-align: center; }
+.attribution { margin-top: 3%; font-size: 11px; text-align: center; }
 
-[role=attribution] a { color: hsl(228, 45%, 44%); }
+.attribution a { color: hsl(228, 45%, 44%); }
 
 
 img { max-width: 300px;
@@ -25,6 +25,6 @@ img { max-width: 300px;
     max-width: 300px;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 10.5%;
+    margin-top: 7%;
     border-radius: 20px;
 }
