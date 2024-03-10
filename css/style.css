@@ -3,13 +3,13 @@
 
 body { background-color: #d6e2f0;}
 
-h1 { font-size: 20px; text-align: center; font-family: 'Outfit', sans-serif; color: #1f3251; }
+h1 { font-size: 25px; text-align: center; font-family: 'Outfit', sans-serif; color: #1f3251; }
 
 p { font-size: 15px; text-align: center; font-family: 'Outfit', sans-serif; color: #7b879d; }
 
-.attribution { margin-top: 5%; font-size: 11px; text-align: center; }
+[role=attribution] { margin-top: 5%; font-size: 11px; text-align: center; }
 
-.attribution a { color: hsl(228, 45%, 44%); }
+[role=attribution] a { color: hsl(228, 45%, 44%); }
 
 
 img { max-width: 300px;
@@ -19,7 +19,7 @@ img { max-width: 300px;
     border-radius: 10px;
 }
 
-.main-card {
+[role=main] {
     background-color: white;
     padding: 15px;
     max-width: 300px;
